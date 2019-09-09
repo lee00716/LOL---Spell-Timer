@@ -1,6 +1,6 @@
 # Spell Timer for League of Legends
 
-### This application is written in Visual Basic .NET. I made this application before I learned programming at school. 
+### This application is written in Visual Basic .NET using Visual Studio 2017. I made this application before I learned programming at school. 
 
 ###### This application checks the times for spells or monster regeneration times for the online video game called [League of Legends](leagueoflegends.com).
 
