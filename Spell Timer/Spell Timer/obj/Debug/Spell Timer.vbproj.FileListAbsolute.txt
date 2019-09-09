@@ -1,0 +1,15 @@
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\bin\Debug\Spell Timer.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\bin\Debug\Spell Timer.exe
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\bin\Debug\Spell Timer.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\bin\Debug\Spell Timer.xml
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell_Timer.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell_Timer.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell Timer.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell Timer.exe
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell Timer.xml
+c:\users\pc\documents\visual studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell Timer.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Spell Timer\Spell Timer\bin\Debug\Spell Timer.exe.manifest
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Spell Timer\Spell Timer\bin\Debug\Spell Timer.application
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell Timer.exe.manifest
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell Timer.application
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Spell Timer\Spell Timer\obj\Debug\Spell Timer.vbprojResolveAssemblyReference.cache
